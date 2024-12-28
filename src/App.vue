@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import TheNa from './components/TheNa.vue';
+import TheNa from './components/TheNav.vue';
 import TheView from './components/TheView.vue';
 export default {
 	components: {
